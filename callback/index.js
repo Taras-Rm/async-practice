@@ -2,7 +2,7 @@ const fs = require("fs");
 
 const modifyData = require("../modifyData");
 
-const INPUT_PATH = "./data.json";
+const INPUT_PATH = "../data.json";
 const OUTPUT_PATH = "./modified_data.json";
 
 // main function
